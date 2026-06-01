@@ -43,8 +43,6 @@ f:\Agentic AI Travel Planner\
 
 ## 🚀 Setup & Execution
 
-### 1. Pre-requisites
-Ensure Python 3.8+ is installed on your machine.
 
 ### 2. Install Dependencies
 Install the required lightweight dependencies (Streamlit, requests, and pandas):
