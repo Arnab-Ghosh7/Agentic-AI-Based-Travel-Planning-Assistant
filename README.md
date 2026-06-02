@@ -19,10 +19,6 @@ Vagabond is a premium, high-fidelity offline **Travel Planning Assistant** built
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Streamlit
-- **Logic**: Python, requests
-- **Data Layers**: Local static JSON databases (`flights.json`, `hotels.json`, `places.json`)
-- **API**: Open-Meteo (Free weather forecasting)
 
 ---
 
