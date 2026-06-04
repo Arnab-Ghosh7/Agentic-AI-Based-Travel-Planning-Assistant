@@ -58,17 +58,7 @@ Launch the frontend dashboard locally:
 streamlit run app.py
 ```
 
-### 4. Running Unit Tests
-Validate all tools and planner logic:
-```bash
-python test_suite.py
-```
 
----
-
-## 🧪 Verification & Reliability
-
-Vagabond features a comprehensive suite of unit tests validating all core data operations, ensuring no edge-case input crashes the travel builder. All 6 tests in `test_suite.py` pass out-of-the-box.
 
 
 ## Author
