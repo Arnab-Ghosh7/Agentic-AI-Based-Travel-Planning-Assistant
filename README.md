@@ -1,6 +1,5 @@
 # Agentic AI-Style Travel Planning Assistant
 
-Vagabond is a premium, high-fidelity offline **Travel Planning Assistant** built using **Python** and **Streamlit**. It mimics the advanced multi-step reasoning, constraints relaxation, and decision justification of an Agentic AI travel planner entirely offline, ensuring 100% free, reliable, and instant operations.
 
 ## ✨ Features
 
