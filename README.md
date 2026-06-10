@@ -4,7 +4,16 @@ Vagabond is a premium, high-fidelity offline **Travel Planning Assistant** built
 
 ## ✨ Features
 
-
+ - **Obsidian Glassmorphic UI**: A dark theme incorporating visual gradients, clear margins, and responsive layouts.
+- **5 Core Planning Tools**:
+  - **Flight Search**: Searches local catalogs, ranking by value or pricing tier.
+  - **Hotel Recommendation**: Matches amenities, star ratings, and prices with smart **Constraint Relaxation** fallback mechanisms.
+  - **Places Discovery**: Schedules local spots of interest per day, filtering by rating and sights type.
+  - **Live Weather Lookup**: Fetches active weather data from the free **Open-Meteo API** (or falls back to seasonal climate profiles offline).
+  - **Budget Estimation**: Combines flight, hotel, and daily per-diem transport/food allowances for overall budgets.
+- **AI Agent Chat Simulator**: An interactive chatbot panel that answers natural language questions about selected flights, hotel amenities, weather conditions, or travel expenses dynamically.
+- **Weather-Aware Activity Scheduling**: Sourced meteorological data translates into actionable tips (e.g., advising indoor museum plans on thundery afternoons).
+- **Decision Justifications**: Provides reasoning fields highlighting why specific flights or hotels were selected for the user's budgetclass.
 
 ---
 
